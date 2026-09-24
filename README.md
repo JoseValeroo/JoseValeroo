@@ -48,8 +48,8 @@
 
 ### 📌 Featured projects
 
-- **[Lure](https://github.com/JoseValeroo/TFG-DAW)** — Full-stack Twitter-style social network. React + Vite SPA consuming a **.NET 10** REST API with **SQL Server**: JWT auth, media tweets, likes/retweets/bookmarks, social graph, messaging and more.
-- **[DCA — Database Compare Application](https://github.com/JoseValeroo/DCA-Database-Compare-Aplication-)** — Desktop tool in **C#/.NET** to compare the structure of two databases across machines and detect schema differences.
+- **[Lure](https://github.com/JoseValeroo/lure)** — Full-stack Twitter-style social network. React + Vite SPA consuming a **.NET 10** REST API with **SQL Server**: JWT auth, media tweets, likes/retweets/bookmarks, social graph, messaging and more.
+- **[DCA — Database Compare Application](https://github.com/JoseValeroo/DCA)** — Desktop tool in **C#/.NET** to compare the structure of two databases across machines and detect schema differences.
 
 ### 📊 GitHub stats
 
